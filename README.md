@@ -1,3 +1,1 @@
-# react-chyrv8
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-chyrv8)
+## Rect.js App with drag and drop options and appearance using cb: onDragStart and onDragEnd
